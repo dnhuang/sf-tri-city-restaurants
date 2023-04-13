@@ -1,186 +1,401 @@
-Pocha K,Newark,54,4.5
-Mingkee Deli,Newark,16,3.5
-四姐 Pan Fried Dumplings,Newark,612,4.5
-Duobao BBQ & Dumplings,Newark,42,4.5
-Mingala Restaurant,Newark,83,4.5
-Oyama BBQ,Newark,21,4.5
-Lazy Dog Restaurant & Bar,Newark,1617,4.0
-Wakatobi,Newark,73,4.0
-The Breeze Cafe,Newark,185,4.0
-Jack’s Restaurant & Bar,Newark,1177,4.0
-Chef Cho,Newark,142,4.0
-California Soul Food,Newark,3,5.0
-Sia Fusion Eatery,Newark,952,4.0
-Spicy Kitchen,Newark,6,4.5
-My No. 1 BBQ And Tofu,Newark,250,4.0
-Customize MaLaTang,Newark,58,4.0
-flaming house,Newark,0,0.0
-Hunan Mifen,Newark,42,4.5
-Tramy’s Restaurant,Newark,51,4.5
-Bear Bitez,Newark,587,4.5
-Tasty Pot,Newark,878,4.0
-Tao‘s Fresh,Newark,102,4.5
-Urban Kitchen,Newark,327,4.0
-Long Men Bay Hot Pot,Newark,21,4.5
-Yugo Ramen,Newark,653,4.0
-Legend Hotpot,Newark,140,3.5
-Hibiscus tree,Newark,6,4.0
-Emperor Dynasty Banquet,Newark,7,5.0
-Crabby Crabby,Newark,123,4.0
-K-Town BBQ,Newark,403,4.0
-Simmer Huang,Newark,2,3.5
-BJ’s Restaurant & Brewhouse,Newark,1837,3.0
-Vinum Japanese Fusion & Bar,Newark,358,4.0
-Rice and Spoon Vietnamese Cuisine,Newark,370,4.0
-All Star Burgers,Newark,278,4.0
-Pupuseria y Taqueria Rosita,Newark,346,4.0
-La Huasteca Taqueria and Mini Market,Newark,386,4.0
-Cocolo Ramen,Newark,146,4.0
-El Hornito Pan Pizza,Newark,66,4.5
-Ray’s Crab Shack,Newark,1386,3.5
-Indigo Burger,Newark,324,4.5
-Shanghai Bistro,Newark,219,3.5
-Amausaan Uji Matcha,Newark,262,4.0
-O’ Sushi,Newark,900,4.0
-Cal Eats Fresh Mexican Grill,Newark,583,4.5
-Pho Nation,Newark,269,4.0
-Dino’s Grill,Newark,397,4.0
-Hummus Republic,Newark,104,4.5
-Fairwood Cafe,Newark,241,3.5
-Saffron Grill,Newark,434,4.0
-My Cafe,Newark,428,4.0
-ID Company,Newark,251,4.0
-Cousin Cafe,Newark,477,3.5
-Tasty Chinese Kitchen,Newark,416,4.0
-Dat Q BBQ,Newark,17,5.0
-Chef Wu Chinese,Newark,225,3.5
-Juanita’s Polynesian Delights,Newark,52,4.0
-Chopsticks Pho & Grill,Newark,316,4.0
-Vons Chicken Newark,Newark,114,4.0
-Seoul Tofu House,Newark,225,3.5
-Himalayan Chef Kitchen,Newark,86,4.5
-Swiss Park Bar & Grille,Newark,65,4.0
-W XYZ Bar,Newark,29,4.0
-+PLUS,Newark,13,3.5
-Bonchon,Newark,644,3.0
-TIT BBQ,Newark,96,2.5
-Venus Cafe,Newark,593,3.5
-Taqueria Los Gallos,Newark,671,3.5
-Papaya Thai,Newark,405,3.5
-Cloudland Rice Noodles,Newark,150,3.0
-Vung Tau III Restaurant,Newark,346,3.5
-Bistro 880,Newark,98,3.0
-Biryani Pot,Newark,515,3.5
-Banh Mi by Rice and Spoon,Newark,108,4.0
-Simply Thai,Newark,644,3.5
-Samraat Curry Hut,Newark,323,4.0
-New Hwong Kok,Newark,138,3.0
-Bayside Poke,Newark,254,4.0
-Newark Buffet,Newark,706,3.0
-CoCurry Thai Cuisine,Newark,535,3.5
-Little Sichuan Restaurant,Newark,231,3.0
-Pocha K,Fremont,54,4.5
-Mingkee Deli,Fremont,16,3.5
-四姐 Pan Fried Dumplings,Fremont,612,4.5
-Duobao BBQ & Dumplings,Fremont,42,4.5
-Lazy Dog Restaurant & Bar,Fremont,1617,4.0
-The Breeze Cafe,Fremont,185,4.0
-Mingala Restaurant,Fremont,83,4.5
-Jack’s Restaurant & Bar,Fremont,1177,4.0
-Oyama BBQ,Fremont,21,4.5
-Sia Fusion Eatery,Fremont,952,4.0
-Wakatobi,Fremont,73,4.0
-Chef Cho,Fremont,142,4.0
-California Soul Food,Fremont,3,5.0
-flaming house,Fremont,0,0.0
-Hunan Mifen,Fremont,42,4.5
-Customize MaLaTang,Fremont,58,4.0
-Spicy Kitchen,Fremont,6,4.5
-My No. 1 BBQ And Tofu,Fremont,250,4.0
-Bear Bitez,Fremont,587,4.5
-Yugo Ramen,Fremont,653,4.0
-Emperor Dynasty Banquet,Fremont,7,5.0
-Tramy’s Restaurant,Fremont,51,4.5
-Tasty Pot,Fremont,878,4.0
-K-Town BBQ,Fremont,403,4.0
-Vinum Japanese Fusion & Bar,Fremont,358,4.0
-Tao‘s Fresh,Fremont,102,4.5
-Urban Kitchen,Fremont,327,4.0
-Simmer Huang,Fremont,2,3.5
-ID Company,Fremont,251,4.0
-Hibiscus tree,Fremont,6,4.0
-Indigo Burger,Fremont,324,4.5
-Long Men Bay Hot Pot,Fremont,21,4.5
-BJ’s Restaurant & Brewhouse,Fremont,1837,3.0
-Cal Eats Fresh Mexican Grill,Fremont,583,4.5
-Legend Hotpot,Fremont,140,3.5
-Amausaan Uji Matcha,Fremont,262,4.0
-Shanghai Bistro,Fremont,219,3.5
-Tasty Chinese Kitchen,Fremont,416,4.0
-Cocolo Ramen,Fremont,146,4.0
-Crabby Crabby,Fremont,123,4.0
-Hummus Republic,Fremont,104,4.5
-Saffron Grill,Fremont,434,4.0
-Bonchon,Fremont,644,3.0
-Cousin Cafe,Fremont,477,3.5
-Crepe Bar,Fremont,115,4.0
-Fairwood Cafe,Fremont,241,3.5
-Ray’s Crab Shack,Fremont,1386,3.5
-My Cafe,Fremont,428,4.0
-All Star Burgers,Fremont,278,4.0
-Bistro 880,Fremont,98,3.0
-TIT BBQ,Fremont,96,2.5
-Vung Tau III Restaurant,Fremont,346,3.5
-Dat Q BBQ,Fremont,17,5.0
-Rice and Spoon Vietnamese Cuisine,Fremont,370,4.0
-Cloudland Rice Noodles,Fremont,150,3.0
-Seoul Tofu House,Fremont,225,3.5
-O’ Sushi,Fremont,900,4.0
-Papaya Thai,Fremont,405,3.5
-Bayside Poke,Fremont,254,4.0
-Pupuseria y Taqueria Rosita,Fremont,346,4.0
-BurgerIM,Fremont,46,3.5
-Swiss Park Bar & Grille,Fremont,65,4.0
-Pop Churros,Fremont,518,4.0
-The Ultimate Deli,Fremont,507,4.0
-Pho Nation,Fremont,269,4.0
-Com Tam Thanh,Fremont,466,3.5
-New Hwong Kok,Fremont,138,3.0
-La Huasteca Taqueria and Mini Market,Fremont,386,4.0
-Chef Wu Chinese,Fremont,225,3.5
-Dino’s Grill,Fremont,397,4.0
-Isla Restaurant,Fremont,824,3.5
-S & J Coffee Shop,Fremont,175,4.0
-MrBeast Burger,Fremont,6,1.5
-Juanita’s Polynesian Delights,Fremont,52,4.0
-England Rose Garden,Fremont,100,3.5
-El Hornito Pan Pizza,Fremont,66,4.5
-Pocha K,Union+City,54,4.5
-四姐 Pan Fried Dumplings,Union+City,612,4.5
-Mingkee Deli,Union+City,16,3.5
-Oyama BBQ,Union+City,21,4.5
-Wakatobi,Union+City,73,4.0
-The Breeze Cafe,Union+City,185,4.0
-California Soul Food,Union+City,3,5.0
-My No. 1 BBQ And Tofu,Union+City,250,4.0
-Mingala Restaurant,Union+City,83,4.5
-Tasty Pot,Union+City,878,4.0
-Sia Fusion Eatery,Union+City,952,4.0
-Spicy Kitchen,Union+City,6,4.5
-Lazy Dog Restaurant & Bar,Union+City,1617,4.0
-Tramy’s Restaurant,Union+City,51,4.5
-Chef Cho,Union+City,142,4.0
-Duobao BBQ & Dumplings,Union+City,42,4.5
-Urban Kitchen,Union+City,327,4.0
-flaming house,Union+City,0,0.0
-Crabby Crabby,Union+City,123,4.0
-Tao‘s Fresh,Union+City,102,4.5
-Jack’s Restaurant & Bar,Union+City,1177,4.0
-Legend Hotpot,Union+City,140,3.5
-Bear Bitez,Union+City,587,4.5
-Customize MaLaTang,Union+City,58,4.0
-Fairwood Cafe,Union+City,241,3.5
-Hibiscus tree,Union+City,6,4.0
-K-Town BBQ,Union+City,403,4.0
-Himalayan Chef Kitchen,Union+City,86,4.5
-Indigo Burger,Union+City,324,4.5
+Pocha K,newark,55,4.5
+四姐 Pan Fried Dumplings,newark,612,4.5
+Mingkee Deli,newark,17,3.5
+Duobao BBQ & Dumplings,newark,42,4.5
+Lazy Dog Restaurant & Bar,newark,1617,4.0
+Jack’s Restaurant & Bar,newark,1177,4.0
+Wakatobi,newark,73,4.0
+Mingala Restaurant,newark,83,4.5
+Oyama BBQ,newark,21,4.5
+Tramy’s Restaurant,newark,51,4.5
+The Breeze Cafe,newark,185,4.0
+Tao‘s Fresh,newark,102,4.5
+Chef Cho,newark,142,4.0
+Sia Fusion Eatery,newark,952,4.0
+Urban Kitchen,newark,327,4.0
+California Soul Food,newark,3,5.0
+Bear Bitez,newark,587,4.5
+Spicy Kitchen,newark,6,4.5
+Yugo Ramen,newark,653,4.0
+Customize MaLaTang,newark,58,4.0
+My No. 1 BBQ And Tofu,newark,250,4.0
+flaming house,newark,0,0.0
+Hunan Mifen,newark,42,4.5
+Tasty Pot,newark,878,4.0
+Rice and Spoon Vietnamese Cuisine,newark,370,4.0
+Cal Eats Fresh Mexican Grill,newark,583,4.5
+Pupuseria y Taqueria Rosita,newark,346,4.0
+All Star Burgers,newark,279,4.0
+El Hornito Pan Pizza,newark,66,4.5
+Crabby Crabby,newark,123,4.0
+Indigo Burger,newark,324,4.5
+Fairwood Cafe,newark,241,3.5
+La Huasteca Taqueria and Mini Market,newark,386,4.0
+Amausaan Uji Matcha,newark,262,4.0
+Long Men Bay Hot Pot,newark,21,4.5
+Pho Nation,newark,269,4.0
+Hibiscus tree,newark,6,4.0
+Legend Hotpot,newark,140,3.5
+Dino’s Grill,newark,397,4.0
+BJ’s Restaurant & Brewhouse,newark,1837,3.0
+K-Town BBQ,newark,403,4.0
+Vons Chicken Newark,newark,114,4.0
+Saffron Grill,newark,434,4.0
+Hummus Republic,newark,104,4.5
+Himalayan Chef Kitchen,newark,86,4.5
+Chopsticks Pho & Grill,newark,316,4.0
+Juanita’s Polynesian Delights,newark,52,4.0
+Emperor Dynasty Banquet,newark,7,5.0
+Banh Mi by Rice and Spoon,newark,108,4.0
+Vinum Japanese Fusion & Bar,newark,358,4.0
+Venus Cafe,newark,593,3.5
+Cocolo Ramen,newark,146,4.0
+Simmer Huang,newark,2,3.5
+Shanghai Bistro,newark,219,3.5
+Ray’s Crab Shack,newark,1386,3.5
+Tasty Chinese Kitchen,newark,416,4.0
+Taqueria Los Gallos,newark,671,3.5
+O’ Sushi,newark,900,4.0
+New Ocean Chinese Restaurant,newark,118,3.5
+ID Company,newark,251,4.0
+Chef Wu Chinese,newark,225,3.5
+Cousin Cafe,newark,477,3.5
+Bonchon,newark,644,3.0
+My Cafe,newark,429,4.0
+Mama’s Papas,newark,14,5.0
+Swiss Park Bar & Grille,newark,65,4.0
++PLUS,newark,13,3.5
+Dat Q BBQ,newark,17,5.0
+Naan Pizza,newark,47,4.0
+TIT BBQ,newark,96,2.5
+Cloudland Rice Noodles,newark,150,3.0
+W XYZ Bar,newark,29,4.0
+New Hwong Kok,newark,138,3.0
+Seoul Tofu House,newark,225,3.5
+Indigo Burger,newark,324,4.5
+Bear Bitez,newark,587,4.5
+All Star Burgers,newark,279,4.0
+Vons Chicken Newark,newark,114,4.0
+Cal Eats Fresh Mexican Grill,newark,583,4.5
+Taqueria Los Gallos,newark,671,3.5
+Urban Kitchen,newark,327,4.0
+McDonald’s,newark,145,1.5
+Wendy’s,newark,85,2.5
+Taco Bell,newark,130,1.5
+Dino’s Grill,newark,397,4.0
+Jack in the Box,newark,73,1.5
+Popeyes Louisiana Kitchen,newark,248,2.0
+Carl’s Jr,newark,56,2.0
+McDonald’s,newark,129,1.5
+Carl’s Jr,newark,66,2.0
+Burger King,newark,74,1.5
+Chipotle Mexican Grill,newark,323,2.5
+Panda Express,newark,131,2.5
+Lazy Dog Restaurant & Bar,newark,1617,4.0
+Taco Bell,newark,133,1.5
+Los Gallos Taqueria,newark,80,3.5
+BurgerIM,newark,46,3.5
+Mingkee Deli,newark,17,3.5
+Huong Lan Sandwiches,newark,390,3.5
+Pupuseria y Taqueria Rosita,newark,346,4.0
+Wingstop,newark,278,2.5
+Super Mega Dilla,newark,0,0.0
+Papa Johns Pizza,newark,193,2.5
+Bonchon,newark,644,3.0
+Asia Express,newark,206,4.0
+Pop Churros,newark,518,4.0
+The Ultimate Deli,newark,507,4.0
+Subway,newark,35,3.5
+Subway,newark,27,2.0
+Hibachi-San,newark,74,2.5
+TOGO’S Sandwiches,newark,193,3.0
+Mexico Tortilla Factory & Delicatessen,newark,299,4.0
+A Thai Express,newark,149,3.5
+La Huasteca Taqueria and Mini Market,newark,386,4.0
+Tamper Room,fremont,37,5.0
+Sizzling Lunch,fremont,410,4.5
+Ambrose Butchery,fremont,240,4.5
+Always Cool BBQ,fremont,153,4.5
+Billy Roys Burger,fremont,283,4.5
+Five Grains Noodle House,fremont,1,5.0
+Market Broiler - Fremont,fremont,2297,4.0
+The Yakitori Bar - Temp. CLOSED,fremont,283,4.0
+Sweet Garden,fremont,499,4.5
+Sojo Ramen,fremont,392,4.0
+Mas Fuego Restaurant,fremont,574,4.0
+Renegade By Devout Coffee,fremont,34,4.5
+Papa Nacho’s,fremont,2,4.0
+Garam Mirchi Pure Veg Indo-Chinese and Rajasthani Cuisine,fremont,82,4.0
+Kiya Sushi,fremont,175,4.5
+Cantaritos Restaurant & Bar,fremont,204,4.0
+Red Pot,fremont,50,4.5
+SOHO Modern Japanese,fremont,187,4.5
+Forest & Flour,fremont,49,4.5
+Le Moose Crepe Cafe,fremont,1531,4.0
+Teo Chow Noodle Shack,fremont,920,4.0
+Sala Thai,fremont,2671,4.0
+Dish N Dash - Fremont,fremont,900,4.5
+Satayman,fremont,194,4.0
+Off The Record,fremont,176,4.0
+Fremont Afghan Kabob,fremont,790,4.0
+The Kebab Shop,fremont,988,4.0
+Dosa Biryanizz Chaat Cafe,fremont,17,5.0
+Amami Sushi Fremont,fremont,85,4.5
+A Sack of Potatoes,fremont,584,4.0
+Julie’s Noodle,fremont,9,4.5
+Bob Sang Korean BBQ & Tofu,fremont,1360,4.0
+Skillet’z Cafe,fremont,1722,4.0
+Rice Junky,fremont,337,4.5
+Melting Wok Korean Fusion,fremont,64,4.5
+Soo Ja Fusion Bistro,fremont,343,4.0
+MJ Sushi,fremont,413,4.5
+Toro Sushi Stone Grill & Bar,fremont,879,4.0
+Old Street Chengpan Malatang,fremont,0,0.0
+Country Way,fremont,2645,4.0
+Pop’s Cafe Fremont,fremont,21,4.0
+Sushi Ken,fremont,167,4.5
+STIX Grill & Bar,fremont,325,3.5
+Federicos Grill,fremont,240,4.0
+King of Thai Noodles House,fremont,550,3.5
+Afghan Awasana Kabob,fremont,294,5.0
+Cut The Crab,fremont,563,3.5
+Joyful Dim Sum Bistro,fremont,156,4.5
+Papillon,fremont,1044,4.0
+One Piece Lamian,fremont,207,4.5
+Osaka Marketplace,fremont,208,4.0
+Vons Chicken - Fremont,fremont,282,4.0
+Red Hot Chilli Pepper,fremont,692,4.0
+Momo & Kebab,fremont,414,4.5
+Haidilao Hot Pot - Fremont,fremont,541,4.5
+Taiwan Porridge - Fremont,fremont,66,4.0
+Haleluya Ethiopian Gourmet,fremont,222,4.5
+Kyain Kyain,fremont,413,4.5
+Mi Lindo Sinaloa,fremont,347,4.0
+Gen Korean BBQ House,fremont,3055,4.0
+Cafe Mei,fremont,134,4.0
+Dog Haus,fremont,856,4.0
+My Indian Pizza,fremont,0,0.0
+Bing’s Dumpling,fremont,896,4.0
+The Port Of Peri Peri,fremont,422,3.5
+Chicken Meets Rice,fremont,95,4.5
+Shihlin Taiwan Street Snacks,fremont,31,4.5
+R HaanThai,fremont,111,4.5
+Illegal Burgers,fremont,55,4.0
+RāwASF - Fremont,fremont,191,4.5
+Keeku da Dhaba,fremont,198,4.5
+Taqueria Extra,fremont,670,4.0
+Chandni Chowk,fremont,59,4.0
+Kung Fu Dim Sum,fremont,55,4.5
+Peri Peri Grill House,fremont,78,4.5
+Best Asian Bistro,fremont,59,4.0
+CK Cafe,fremont,55,4.0
+Nick The Greek - Fremont,fremont,179,4.0
+Doli’s Pupuseria & Taqueria,fremont,19,4.5
+Spoon Korean Bistro,fremont,313,4.0
+Idly Express Fremont,fremont,105,4.5
+Koja Kitchen Fremont,fremont,245,4.0
+Krispy Krunchy Chicken,fremont,74,4.0
+Firechikz,fremont,42,3.5
+Pho Lan Noodles House,fremont,95,4.0
+Mom’s Tofu House,fremont,596,4.0
+Amazing Basil & A Cup Of,fremont,102,4.0
+El Tacuache,fremont,16,4.5
+Shang Cafe,fremont,154,4.0
+Aniki’s Sushi,fremont,2336,4.0
+Pho Thin Hanoi Vietnamese Restaurant,fremont,44,4.0
+Full House Dumpling,fremont,274,3.5
+Kitayama,fremont,163,4.0
+BunBao,fremont,128,3.5
+I-Shanghai Delight,fremont,521,3.5
+Duan Chun Zhen Noodle House,fremont,68,3.5
+Olive Garden Italian Restaurant,fremont,806,3.0
+De Afghanan Cuisine,fremont,1710,4.0
+The Everest Momo,fremont,104,4.5
+Northwest China Cuisine,fremont,63,3.5
+Zhangfei Hot Pot,fremont,368,4.5
+Massimo’s,fremont,623,3.5
+Viet Cafe & Sandwich,fremont,76,4.0
+La Orizabeña,fremont,30,4.5
+Little Dipper Shabu Shabu,fremont,1165,4.0
+A Plus HK Style Cafe,fremont,348,3.5
+Bundoo Khan,fremont,6,5.0
+Mingle’s Mango,fremont,295,4.0
+Bill’s Cafe,fremont,884,4.0
+iniBurger,fremont,428,4.5
+Veg N Chaat Cuisine,fremont,593,4.0
+Pearl Bay Restaurant,fremont,291,3.5
+Datang Kitchen,fremont,135,4.5
+Hot Pot Bros,fremont,111,3.5
+YY Noodle,fremont,5,4.5
+Spices!,fremont,483,3.5
+East Bay Cafe Depot,fremont,154,4.5
+Satomi Sushi,fremont,2381,4.0
+Kakuna Sushi,fremont,379,4.5
+Mioki Sushi,fremont,1423,4.0
+Eat Up,fremont,6,4.0
+Papasan Rolls and Bowls,fremont,369,4.0
+Local Cafe,fremont,210,3.0
+MoMo CooK,fremont,251,4.0
+KoKoLo Donburi - Fremont Ranch 99,fremont,24,4.0
+The GREATROOM,fremont,21,3.5
+Old Taro,fremont,234,4.0
+Frodo Joe’s Petit Cafe,fremont,1064,4.0
+Bodo Lucky Japanese Restaurant,fremont,658,4.0
+Mirchi Meat & Deli,fremont,154,4.5
+Chick-fil-A,fremont,599,3.5
+iniBurger,fremont,428,4.5
+Chicken Meets Rice,fremont,95,4.5
+In-N-Out Burger,fremont,523,4.0
+Billy Roys Burger,fremont,283,4.5
+Krispy Krunchy Chicken,fremont,74,4.0
+Mi Lindo Sinaloa,fremont,347,4.0
+Dog Haus,fremont,856,4.0
+Taqueria Extra,fremont,670,4.0
+Wendy’s,fremont,109,3.5
+Wienerschnitzel,fremont,122,4.0
+Falafel Corner,fremont,278,4.0
+Panda Express,fremont,230,2.5
+McDonald’s,fremont,197,1.5
+Wendy’s,fremont,115,2.0
+Popeyes Louisiana Kitchen,fremont,278,2.0
+McDonald’s,fremont,149,3.0
+Chick-fil-A,fremont,248,3.0
+Nick The Greek - Fremont,fremont,179,4.0
+Nation’s Giant Hamburgers,fremont,507,3.5
+The Habit Burger Grill,fremont,620,3.5
+Jack in the Box,fremont,93,2.5
+Firehouse Subs,fremont,372,4.0
+Peri Peri Grill House,fremont,78,4.5
+Jack in the Box,fremont,74,2.5
+Shihlin Taiwan Street Snacks,fremont,31,4.5
+Carl’s Jr,fremont,92,2.5
+Taco Bell,fremont,302,1.5
+Wienerschnitzel,fremont,68,3.0
+Halal Wings Plus,fremont,220,4.0
+Five Guys,fremont,1046,3.5
+McDonald’s,fremont,82,2.5
+Chipotle Mexican Grill,fremont,724,2.5
+Vons Chicken - Fremont,fremont,282,4.0
+Wingstop,fremont,399,3.0
+Burger King,fremont,101,1.5
+The Port Of Peri Peri,fremont,422,3.5
+Spoon Korean Bistro,fremont,313,4.0
+The Counter Fremont,fremont,1214,3.5
+McDonald’s,fremont,154,2.5
+Taco Bell,fremont,78,2.5
+A&W Restaurant,fremont,75,2.0
+MOD Pizza,fremont,386,4.0
+KFC,fremont,111,1.5
+Denny’s,fremont,517,2.5
+Auntie Anne’s,fremont,0,0.0
+Panda Express,fremont,101,2.0
+Jack in the Box,fremont,74,2.0
+McDonald’s,fremont,145,2.5
+Jack in the Box,fremont,66,2.5
+Jack in the Box,fremont,117,1.5
+McDonald’s,fremont,106,2.0
+El Gordo Y El Flaco,fremont,45,4.0
+Blaze Pizza,fremont,1348,3.5
+KFC,fremont,194,1.5
+Boudin SF,fremont,614,3.0
+Carl’s Jr,fremont,96,2.0
+Taqueria Las Vegas,fremont,306,3.0
+Las Palmas Taqueria,fremont,161,3.5
+Mr. Taco,fremont,340,4.0
+Jack in the Box,fremont,105,2.0
+Super Taco,fremont,375,3.5
+Country Way,fremont,2645,4.0
+Burger King,fremont,71,1.5
+Jack in the Box,fremont,41,2.0
+Buffalo Wild Wings,fremont,893,2.0
+Chipotle Mexican Grill,fremont,127,2.0
+Panera Bread,fremont,656,3.0
+Taco Bell,fremont,181,1.5
+Ohlone Deli & Catering,fremont,96,3.5
+It’s Just Wings,fremont,345,2.0
+Nashville Hot Chicken Shack,fremont,16,1.5
+Boston Market,fremont,228,2.5
+Bar Bay Grill,union city,661,4.0
+Pacific PourHouse,union city,1108,4.0
+Tang’s Haus,union city,187,4.5
+Street Food Vibes - Indian Cafe,union city,62,4.5
+Mai’s Kitchen,union city,502,4.0
+Fong Kee Clay Pot,union city,106,4.0
+Lotus Cafe,union city,113,4.5
+Texas Roadhouse,union city,3696,3.5
+House of Dumplings,union city,1079,4.0
+The Lone Crow,union city,56,4.5
+Tadamasa,union city,1263,4.0
+Ocean Oyster Bar & Grill,union city,517,4.0
+Mabuhay Grill,union city,25,4.0
+Fish Day,union city,328,4.0
+Din Ding Dumpling House-Union City,union city,914,4.0
+Dave’s Hot Chicken,union city,326,4.0
+Greens N Grills,union city,217,4.5
+Pho VN Vietnamese Restaurant,union city,690,4.0
+Backyard Bayou,union city,1227,3.5
+Tacos Papo,union city,285,4.0
+Ramen Shu,union city,542,4.0
+Nick The Greek,union city,256,4.0
+Carmelita’s Taqueria,union city,225,4.0
+Cafe 86,union city,297,4.0
+Che-Lo,union city,537,4.0
+Mr Kebab,union city,888,4.0
+Thai BBQ,union city,386,4.0
+Pho Mama,union city,182,4.0
+Parilya,union city,140,3.5
+New China,union city,452,4.0
+Menya Shono,union city,266,3.5
+Baby Cafe,union city,214,3.0
+Pottastic,union city,207,3.5
+Jenjon’s Cafe,union city,486,4.0
+Baldie’s Café,union city,890,4.0
+Dragon House,union city,440,3.5
+Cock n’ Curry - Indian Fried Chicken,union city,4,5.0
+Grand Golden Bay Seafood restaurant,union city,143,3.5
+Mifen101,union city,30,4.0
+Break Your Fast,union city,1000,3.5
+Donut Delight Express,union city,238,3.5
+Thai Village Cuisine,union city,434,4.0
+Peshawari Kababs,union city,374,3.5
+Uncle Yu Restaurant 永康又一家,union city,348,4.0
+The Cheese Steak Shop,union city,149,3.5
+Chaplin’s Sports Bistro,union city,623,4.0
+Mexico Tipico,union city,512,3.5
+Hippies Brew - Temp. CLOSED,union city,100,4.5
+Tomatina,union city,608,3.0
+Sushi GoGo,union city,53,3.5
+HK Top,union city,322,3.0
+Anytime Hawaiian BBQ & Local Food,union city,90,3.5
+Dave’s Hot Chicken,union city,326,4.0
+Jollibee,union city,829,2.5
+In-N-Out Burger,union city,509,4.0
+Nick The Greek,union city,256,4.0
+McDonald’s,union city,149,2.0
+Popeyes Louisiana Kitchen,union city,127,3.0
+Carmelita’s Taqueria,union city,225,4.0
+Che-Lo,union city,537,4.0
+Taco Bell,union city,101,2.5
+Taco Bell,union city,136,1.5
+The Habit Burger Grill,union city,74,3.0
+Whipple Taqueria,union city,251,3.5
+Burger King,union city,106,1.5
+Burger King,union city,115,2.0
+Wingstop,union city,414,3.0
+Cam Huong,union city,575,4.0
+Parilya,union city,140,3.5
+Taco Bell,union city,152,2.0
+Amy’s Donuts,union city,215,4.5
+KFC,union city,95,2.5
+Chipotle Mexican Grill,union city,491,2.0
+Jenjon’s Cafe,union city,486,4.0
+Pacific PourHouse,union city,1108,4.0
+Buffalo Wild Wings,union city,955,2.0
+Grill City,union city,0,0.0
+TOGO’S Sandwiches,union city,126,3.5
+IHOP,union city,501,2.5
+McDonald’s,union city,56,1.5
+Chowking,union city,190,2.0
+Baldie’s Café,union city,890,4.0
+Backyard Bayou,union city,1227,3.5
+TGI Fridays,union city,848,2.5

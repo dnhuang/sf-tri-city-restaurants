@@ -14,7 +14,7 @@ But what are commonly franchised fast food restaurants? And what does it mean to
 
 Commonly franchised fast food restaurants will be defined by the following list:
 
-McDonald's, Jack in the Box, Wendy's, Burger King, Carl's Jr., Taco Bell, Del Taco, Chick-fil-A, Pizza Hut, Domino's, Chipotle, Papa Johns Pizza, Arbys, Subway, Starbucks, KFC, Little Caesars, Baskin-Robbins, Popeyes, Panda Express, Five Guy's, Wingstop, and Firehouse Subs.
+McDonald's, Jack in the Box, Wendy's, Burger King, Carl's Jr., Taco Bell, Del Taco, Chick-fil-A, Pizza Hut, Domino's, Chipotle, Papa Johns Pizza, Arbys, Subway, Starbucks, KFC, Little Caesars, Baskin-Robbins, Popeyes, Panda Express, Five Guys, Wingstop, Wienerschnitzel, and Firehouse Subs.
 
 This list is by no means exhaustive, but I think it is exhaustive enough to catch most if not all of the commonly franchsed fast food restaurants in the Tri-City area. 
 
