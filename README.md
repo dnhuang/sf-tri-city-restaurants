@@ -30,3 +30,5 @@ With these definitions, I propose an A/B test with an $alpha=0.05$. The followin
 **Alternative Hypothesis:** In the Bay Area Tri-City area, the commonly franchised fast food restaurants have a *lower* rating, on average, than regular restaurants.
 
 With all that said, let's see where this project takes me.
+
+Final results and conclusions can be found in `analysis.ipynb`.
