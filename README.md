@@ -23,7 +23,7 @@ This list is by no means exhaustive, but I think it is exhaustive enough to catc
 
 As for being an accurate representation of ther customers' sentiments, I'm sure this question, if people really wanted to get into it can become quite a debate. But for my purposes, I'm just going to give ratings the benefit of the doubt, if your rating is low, your food is horrible and your service sucks; rating high, then the opposite is true.
 
-With these definitions, I propose an A/B test with an $alpha=0.05$. The following are my hypotheses:
+With these definitions, I propose an A/B test with an $\alpha=0.05$. The following are my hypotheses:
 
 **Null Hypothesis:** In the Bay Area Tri-City area, the distribution of ratings is the same for regular restaurants and commonly franchised fast food restaurants. The difference in the sample is due to chance.
 
